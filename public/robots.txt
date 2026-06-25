@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shreyanshjain-portfolio.vercel.app/sitemap.xml
